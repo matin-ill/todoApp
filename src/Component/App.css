@@ -1,0 +1,29 @@
+.mx-sm3{
+    padding: 5px 3px;
+    border-radius: 3px;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid black;
+    margin-right: 1rem;
+}
+.btn{
+    margin-top: -.4rem;
+}
+.jumbotron {
+    background:rgb(190, 222, 255);
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-info{  
+    margin-right: .5rem ;
+}
+.badge{
+    color: rebeccapurple;
+    background-color: beige;
+    font-size: .8rem;
+}
+.btn-sm {
+    margin-right: 10px;
+}
